@@ -1,7 +1,11 @@
 
-## Cricket Live Score Project.
+## Live Cricket Score Project.
 
-Built with Python Libs.
+Easy Program Built with Python.
+
+## Application Programming Interface Used
+
+CricInfo
 
 ## Requied Libs.
 
