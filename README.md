@@ -16,4 +16,4 @@ Built with Python Libs.
 ![MAIN2](https://github.com/varunherlekar/livescore/blob/main/pymain2.JPG)
 
 ## Languages
--   [PYTHON 100.0%](https://github.com/varunherlekar/LIVESCORE/search?l=python)
+-   [PYTHON 100.0%](https://github.com/varunherlekar/livescore/search?l=python)
